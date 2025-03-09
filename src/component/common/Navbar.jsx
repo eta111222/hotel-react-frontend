@@ -20,7 +20,7 @@ function Navbar() {
     return(
         <nav className="navbar">
             <div className="navbar-brand">
-                <NavLink to="/home"> Phegon Hotel </NavLink>
+                <NavLink to="/home"> Hotel </NavLink>
             </div>
 
             <ul className="navbar-ul">
